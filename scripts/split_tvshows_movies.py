@@ -32,3 +32,4 @@ with open(os.path.join(data_file, 'netflix_tv_shows.csv'), 'w', newline='', enco
     for row in tv_shows:
         writer.writerow(row)
      
+ 
